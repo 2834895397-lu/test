@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1feu2aOPs2v2jGTbaCO68eCHQiU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,7 +63,7 @@
       <workItem from="1599494028697" duration="614000" />
       <workItem from="1599542754187" duration="231000" />
       <workItem from="1603270920846" duration="270000" />
-      <workItem from="1603271226023" duration="493000" />
+      <workItem from="1603271226023" duration="640000" />
     </task>
     <servers />
   </component>
@@ -78,10 +78,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="新增了一个p标签" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1603271106309">
+    <state x="319" y="0" key="CommitChangelistDialog2" timestamp="1603272005598">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1603271106309" />
+    <state x="319" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1603272005598" />
     <state x="499" y="104" key="FileChooserDialogImpl" timestamp="1603271676403">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
